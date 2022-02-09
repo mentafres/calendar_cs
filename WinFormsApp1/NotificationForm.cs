@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp1
+namespace WinFormsApp1
 {
     /*
      * Класс с реализацией логики окна создания/редактирования уведмолений.
